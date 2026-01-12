@@ -1,0 +1,437 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "☀️",
+  "titre": "Échappée Douce au Cœur du Portugal : Lisbonne et Porto",
+  "budget_total": "Environ 2650 €/personne",
+  "duree": "10 jours",
+  "temps_vol": "7h30 (depuis Bertrand, etats unis)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur à Lisbonne",
+      "legende": "Après un long vol, la première journée est dédiée à l'installation et à une première immersion relaxante dans la capitale portugaise. Flânez dans les quartiers historiques et laissez-vous charmer par l'ambiance.",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Lisbonne (LIS) et transfert vers votre hôtel.",
+        "<strong>🛏️</strong>: Installation et détente à votre hébergement 3 étoiles.",
+        "<strong>🚶‍♂️</strong>: Première balade relaxante dans le quartier de Baixa-Chiado, admirez l'architecture pombaline et les boutiques élégantes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Lisbonne, Lisbonne",
+          "categorie": "Aéroport",
+          "coords": { "lat": 38.7742, "lng": -9.1359 }
+        },
+        {
+          "nom_recherche": "Baixa-Chiado, Lisbonne",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 38.7107, "lng": -9.1396 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trajet depuis l'aéroport vers le centre-ville est facile en métro (ligne rouge) ou en taxi/Uber. Prévoyez une carte Viva Viagem pour les transports en commun."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Charme historique de l'Alfama",
+      "legende": "Explorez le plus ancien quartier de Lisbonne, l'Alfama, avec ses ruelles sinueuses et ses vues imprenables. Une journée dédiée à la découverte culturelle et aux panoramas apaisants.",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Promenade matinale dans le quartier de l'Alfama, ses ruelles étroites et ses maisons colorées.",
+        "<strong>🏰</strong>: Visite du Château de São Jorge, offrant une vue panoramique sur la ville et le Tage.",
+        "<strong>🎶</strong>: Dîner dans un restaurant typique de l'Alfama avec un spectacle de Fado (musique traditionnelle portugaise)."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Alfama, Lisbonne",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 38.7100, "lng": -9.1300 }
+        },
+        {
+          "nom_recherche": "Château de São Jorge, Lisbonne",
+          "categorie": "Château",
+          "coords": { "lat": 38.7139, "lng": -9.1334 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Portez des chaussures confortables, les rues de l'Alfama sont pavées et en pente. Le tram 28 est une expérience, mais souvent bondé."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "👑",
+      "titre": "Contes de fées à Sintra et brise marine à Cascais",
+      "legende": "Évadez-vous de la ville pour une journée magique à Sintra, classée au patrimoine mondial de l'UNESCO, puis respirez l'air marin de Cascais. Une combinaison parfaite de culture et de détente côtière.",
+      "lieu": "Sintra & Cascais",
+      "activites": [
+        "<strong>🚂</strong>: Trajet en train vers Sintra, une ville féerique nichée dans les collines.",
+        "<strong>🏰</strong>: Visite du Palais de la Regaleira et ses jardins mystiques, ou du Palais National de Sintra.",
+        "<strong>🌊</strong>: Détente à Cascais, ancien village de pêcheurs devenu station balnéaire chic, avec une balade le long de la côte."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Palais de la Regaleira, Sintra",
+          "categorie": "Palais et jardins",
+          "coords": { "lat": 38.7961, "lng": -9.3929 }
+        },
+        {
+          "nom_recherche": "Cascais, Portugal",
+          "categorie": "Ville côtière",
+          "coords": { "lat": 38.6979, "lng": -9.4209 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Des bus locaux relient les différents palais de Sintra. Pour Cascais, un bus direct part de Sintra ou un train de Lisbonne."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "⛵",
+      "titre": "Découverte maritime à Belém",
+      "legende": "Plongez dans l'ère des Grandes Découvertes portugaises à Belém, un quartier emblématique de Lisbonne. Goûtez aux célèbres Pastéis de Belém et profitez d'une balade apaisante au bord du Tage.",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🏛️</strong>: Visite du Monastère des Hiéronymites, chef-d'œuvre de l'architecture manuéline.",
+        "<strong>塔</strong>: Admiration de la Tour de Belém et du Monument aux Découvertes, symboles de l'âge d'or maritime du Portugal.",
+        "<strong>🍰</strong>: Dégustation des authentiques Pastéis de Belém à la pâtisserie originale, un délice incontournable."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Monastère des Hiéronymites, Lisbonne",
+          "categorie": "Monastère",
+          "coords": { "lat": 38.6978, "lng": -9.2067 }
+        },
+        {
+          "nom_recherche": "Tour de Belém, Lisbonne",
+          "categorie": "Monument",
+          "coords": { "lat": 38.6916, "lng": -9.2160 }
+        },
+        {
+          "nom_recherche": "Pastéis de Belém, Lisbonne",
+          "categorie": "Pâtisserie",
+          "coords": { "lat": 38.6973, "lng": -9.2060 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Balade",
+          "texte": "Profitez d'une agréable promenade le long du Tage, de Belém jusqu'au pont du 25 Avril, pour des vues imprenables."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🚆",
+      "titre": "Voyage vers Porto et première exploration",
+      "legende": "Quittez la capitale pour le nord du Portugal, direction Porto, la ville du vin et des ponts. Un voyage confortable en train vous mènera à de nouvelles découvertes et une ambiance différente.",
+      "lieu": "Porto",
+      "activites": [
+        "<strong>🚆</strong>: Trajet en train à grande vitesse de Lisbonne (Gare de Santa Apolónia ou Oriente) à Porto (Gare de Campanhã).",
+        "<strong>🛏️</strong>: Installation à votre hôtel 3 étoiles au cœur de Porto.",
+        "<strong>🚶‍♂️</strong>: Première balade dans le centre historique de Porto, classé à l'UNESCO, et le long de la Ribeira."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Santa Apolónia, Lisbonne",
+          "categorie": "Gare",
+          "coords": { "lat": 38.7145, "lng": -9.1229 }
+        },
+        {
+          "nom_recherche": "Gare de Campanhã, Porto",
+          "categorie": "Gare",
+          "coords": { "lat": 41.1500, "lng": -8.5833 }
+        },
+        {
+          "nom_recherche": "Ribeira, Porto",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 41.1400, "lng": -8.6100 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🎫",
+          "titre": "Billet de train",
+          "texte": "Réservez vos billets de train à l'avance sur le site de Comboios de Portugal (CP) pour bénéficier de meilleurs tarifs."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🍷",
+      "titre": "Porto : Vin, ponts et vues imprenables",
+      "legende": "Explorez les charmes de Porto, de ses caves à vin de Porto aux vues spectaculaires sur le Douro. Une journée pour savourer la culture locale et les paysages urbains uniques.",
+      "lieu": "Porto",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Visite de la Librairie Lello, une merveille architecturale (arrivez tôt pour éviter la foule).",
+        "<strong>🍷</strong>: Traversée du Pont Dom Luís I et visite d'une cave à vin de Porto à Vila Nova de Gaia, avec dégustation.",
+        "<strong>🌅</strong>: Coucher de soleil depuis le Jardim do Morro, offrant une vue emblématique sur Porto."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Librairie Lello, Porto",
+          "categorie": "Librairie",
+          "coords": { "lat": 41.1458, "lng": -8.6139 }
+        },
+        {
+          "nom_recherche": "Pont Dom Luís I, Porto",
+          "categorie": "Pont",
+          "coords": { "lat": 41.1390, "lng": -8.6100 }
+        },
+        {
+          "nom_recherche": "Jardim do Morro, Vila Nova de Gaia",
+          "categorie": "Jardin",
+          "coords": { "lat": 41.1390, "lng": -8.6130 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "Le Pont Dom Luís I offre des opportunités de photos incroyables, surtout depuis son niveau supérieur."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏞️",
+      "titre": "Croisière relaxante dans la Vallée du Douro",
+      "legende": "Évadez-vous pour une journée de pure détente dans la magnifique Vallée du Douro, berceau du vin de Porto. Profitez des paysages en terrasses et d'une croisière paisible sur le fleuve.",
+      "lieu": "Vallée du Douro",
+      "activites": [
+        "<strong>🚂</strong>: Excursion en train le long du fleuve Douro jusqu'à Pinhão ou Régua, pour admirer les paysages viticoles.",
+        "<strong>🚢</strong>: Croisière relaxante sur le Douro, offrant des vues imprenables sur les vignobles en terrasses.",
+        "<strong>🍇</strong>: Visite d'une \"quinta\" (domaine viticole) avec dégustation de vins locaux et déjeuner typique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Pinhão, Portugal",
+          "categorie": "Village viticole",
+          "coords": { "lat": 41.1730, "lng": -7.5940 }
+        },
+        {
+          "nom_recherche": "Régua, Portugal",
+          "categorie": "Ville viticole",
+          "coords": { "lat": 41.1600, "lng": -7.7900 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Météo",
+          "texte": "La Vallée du Douro peut être très ensoleillée en mai. Prévoyez chapeau, lunettes de soleil et crème solaire."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🌳",
+      "titre": "Jardins et vues panoramiques de Porto",
+      "legende": "Profitez d'une journée plus tranquille à Porto, en explorant ses espaces verts et en admirant la ville sous différents angles. Une occasion de se ressourcer avant de retourner à Lisbonne.",
+      "lieu": "Porto",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Promenade apaisante dans les Jardins du Palais de Cristal, avec leurs paons et leurs vues sur le Douro.",
+        "<strong>🎨</strong>: Visite du quartier des arts de Miguel Bombarda, avec ses galeries et boutiques indépendantes.",
+        "<strong>☕</strong>: Détente dans un café historique comme le Majestic Café, pour une pause gourmande et élégante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardins du Palais de Cristal, Porto",
+          "categorie": "Jardin",
+          "coords": { "lat": 41.1470, "lng": -8.6210 }
+        },
+        {
+          "nom_recherche": "Rua de Miguel Bombarda, Porto",
+          "categorie": "Rue des arts",
+          "coords": { "lat": 41.1470, "lng": -8.6180 }
+        },
+        {
+          "nom_recherche": "Majestic Café, Porto",
+          "categorie": "Café historique",
+          "coords": { "lat": 41.1458, "lng": -8.6075 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Shopping",
+          "texte": "Le quartier de Miguel Bombarda est idéal pour trouver des souvenirs uniques et des œuvres d'art locales."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🔙",
+      "titre": "Retour à Lisbonne et soirée détente",
+      "legende": "Après les charmes du nord, retournez à Lisbonne pour une dernière soirée dans la capitale. Profitez d'un dîner mémorable et d'une ambiance paisible pour clôturer votre séjour.",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🚆</strong>: Trajet en train de Porto à Lisbonne, profitez du paysage pour vous reposer.",
+        "<strong>🛏️</strong>: Installation dans un nouvel hôtel à Lisbonne ou retour au premier.",
+        "<strong>🍽️</strong>: Dîner d'adieu dans le quartier du Bairro Alto ou du Cais do Sodré, pour une ambiance animée mais relaxante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Bairro Alto, Lisbonne",
+          "categorie": "Quartier nocturne",
+          "coords": { "lat": 38.7120, "lng": -9.1420 }
+        },
+        {
+          "nom_recherche": "Cais do Sodré, Lisbonne",
+          "categorie": "Quartier animé",
+          "coords": { "lat": 38.7060, "lng": -9.1430 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Si vous avez des bagages, pensez à les laisser en consigne à la gare de Lisbonne si vous changez d'hôtel pour la dernière nuit."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🛀",
+      "titre": "Journée de relaxation et adieux à Lisbonne",
+      "legende": "Profitez d'une dernière journée à Lisbonne pour vous détendre, faire du shopping ou revisiter un lieu coup de cœur. Une fin de voyage en toute sérénité avant le départ.",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🛍️</strong>: Matinée dédiée au shopping de souvenirs dans la Rua Augusta ou au LX Factory, un espace créatif et branché.",
+        "<strong>🛀</strong>: Optionnel : Détente dans un spa ou un hammam pour un moment de relaxation ultime.",
+        "<strong>🌅</strong>: Dernier coucher de soleil depuis un miradouro (point de vue) comme celui de Santa Luzia ou São Pedro de Alcântara."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Rua Augusta, Lisbonne",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 38.7100, "lng": -9.1370 }
+        },
+        {
+          "nom_recherche": "LX Factory, Lisbonne",
+          "categorie": "Espace créatif",
+          "coords": { "lat": 38.7030, "lng": -9.1800 }
+        },
+        {
+          "nom_recherche": "Miradouro de Santa Luzia, Lisbonne",
+          "categorie": "Point de vue",
+          "coords": { "lat": 38.7120, "lng": -9.1290 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les azulejos (carreaux de faïence), le liège et les produits à base de sardine sont des souvenirs typiques du Portugal."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🛫",
+      "titre": "Départ de Lisbonne",
+      "legende": "C'est le moment de dire au revoir au Portugal, la tête pleine de souvenirs. Transfert vers l'aéroport pour votre vol retour.",
+      "lieu": "Lisbonne",
+      "activites": [
+        "<strong>🍳</strong>: Petit-déjeuner à l'hôtel ou dans un café local.",
+        "<strong>🛄</strong>: Check-out de l'hôtel et transfert vers l'aéroport de Lisbonne (LIS).",
+        "<strong>🛫</strong>: Vol retour vers les États-Unis."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Lisbonne, Lisbonne",
+          "categorie": "Aéroport",
+          "coords": { "lat": 38.7742, "lng": -9.1359 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le transfert et les formalités à l'aéroport, surtout en haute saison."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 709 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 180 €/pers (trains, métro, bus)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 450 €/pers (3 repas/jour, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1100 €/pers (10 nuits en hôtel 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 210 €/pers (entrées, dégustations, croisière)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Juin", "symbole": "☀️" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai, les températures au Portugal varient entre 15 et 25°C. Prévoyez des vêtements légers pour la journée et une petite veste pour les soirées plus fraîches.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées. Ayez un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le Portugal utilise le système métrique (km/h, litres). La conduite se fait à droite. Un permis de conduire international est recommandé si vous louez une voiture.", "symbole": "🚗" },
+    { "titre": "Le Wi-Fi est disponible dans la plupart des hébergements et cafés. Une carte SIM locale (MEO, Vodafone, NOS) ou une eSIM peut être utile pour la navigation.", "symbole": "📶" },
+    { "titre": "La langue officielle est le portugais. L'anglais est couramment parlé dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Le tram 28 de Lisbonne n'est pas seulement un moyen de transport, c'est une véritable attraction touristique. Il serpente à travers les quartiers historiques, offrant un aperçu unique de la vie lisboète, mais attention aux pickpockets !" 
+    },
+    { 
+      "symbole": "🐔", 
+      "titre": "Insolite", 
+      "texte": "Le \"Coq de Barcelos\" est l'un des symboles les plus emblématiques du Portugal. La légende raconte qu'un coq rôti aurait chanté pour prouver l'innocence d'un pèlerin condamné à mort. On le retrouve partout en céramique !" 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍮", 
+      "titre": "Pastel de Nata", 
+      "description": "Ces petites tartelettes à la crème pâtissière, saupoudrées de cannelle, sont une institution. Croustillantes à l'extérieur, fondantes à l'intérieur, elles se dégustent tièdes à tout moment de la journée." 
+    },
+    { 
+      "symbole": "🐟", 
+      "titre": "Bacalhau à Brás", 
+      "description": "Le Portugal est le pays du \"bacalhau\" (morue), préparé de mille et une façons. Le \"Bacalhau à Brás\" est un plat réconfortant à base de morue effilochée, d'oignons, de pommes de terre frites et d'œufs brouillés." 
+    },
+    { 
+      "symbole": "🥪", 
+      "titre": "Francesinha", 
+      "description": "Spécialité de Porto, ce sandwich gargantuesque est composé de plusieurs viandes (saucisse, jambon, steak), recouvert de fromage fondu et nappé d'une sauce tomate-bière épicée. Un plat robuste pour les gourmands !" 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/JFK-LIS/2026-05-15/2026-05-25", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Portugal", "url": "https://www.visitportugal.com/fr", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Comboios de Portugal (CP)", "url": "https://www.cp.pt/passageiros/fr/voyager/planifier-voyage", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/en/index.html", "symbole": "🌤️" }
+  ]
+}
